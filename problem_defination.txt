@@ -1,0 +1,17 @@
+Fabrikam---multinational company ---24 offices-----
+
+
+
+information management solutions
+
+host internet public website for their potentil customers to lnow about pruducts with online shopping experience 
+
+
+employees--------------intranet--------------------feedback management system
+
+
+that is cmpany wants to put product related data onto github and they want that their employee 
+will take that daat from github by intranet
+
+company has their own amazon cloud service to use as a infrastructure as a service so company will put nformation on cloud service 
+and employee will use that informatio from that
